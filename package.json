@@ -13,6 +13,8 @@
   },
   "devDependencies": {},
   "plugin": {
-    "provides": ["config"]
+    "provides": [
+      "config"
+    ]
   }
 }
